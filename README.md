@@ -62,10 +62,7 @@ dehradun-tourism-website/
 ├── tsconfig.json
 └── next.config.mjs
 
-yaml
-Copy code
 
----
 
 ## 🚀 Getting Started (Run Locally)
 
